@@ -4,5 +4,4 @@ int main(){
     char arr[100];
     strcpy(arr,"Go to hell");
     printf("%s",arr);
-
 }
